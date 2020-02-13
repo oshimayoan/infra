@@ -2,12 +2,13 @@ import React, { useState, useCallback } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Modal, Portal, TouchableRipple } from 'react-native-paper';
 import { DateObject } from 'react-native-calendars';
+
 import { Calendar } from '../Calendar';
 import TimePicker from '../TimePicker/TimePicker.web';
 import Text from '../Text';
 import IconButton from '../IconButton';
-
 import useTheme from '../../helpers/useTheme';
+
 import { useDateTimePicker } from './useDateTimePicker';
 import { DateTimePickerProps, DateTimePickerMode } from './types';
 

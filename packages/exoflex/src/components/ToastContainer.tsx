@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 
-import Toast, { ModeProps } from './Toast';
 import EventEmitter from '../helpers/EventEmitter';
+
+import Toast, { ModeProps } from './Toast';
 
 export type ToastConfig = {
   message: string;
