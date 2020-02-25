@@ -4595,10 +4595,10 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-fetching-library@1.5.14:
-  version "1.5.14"
-  resolved "https://registry.yarnpkg.com/react-fetching-library/-/react-fetching-library-1.5.14.tgz#75eebc1fcfe17b1baa4d7542e80d21c59bf7b2ec"
-  integrity sha512-PRHzz/WUvSJVfrudDpXoumkM8ZwmGwwaL7Pqu7+oRC5An87nFS7/tWEQKw3HpzlhaxAGw+baf/tCQiHbFbUREQ==
+react-fetching-library@1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/react-fetching-library/-/react-fetching-library-1.7.0.tgz#7982e8eb3103ae06172ecec47fb3c1a2ffe99714"
+  integrity sha512-dM7oWfM1eP2+KmyOKLm9M6ulET9n6NNgFC2H1mrFIgrZgbahw1byb8lqjLbIv3kSEUG+TQiWBldfazs2z4IHIg==
 
 react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.12.0"
