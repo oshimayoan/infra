@@ -45,9 +45,9 @@
     "jest": "24.9.0",
     "node-fetch": "2.6.0",
     "prettier": "1.19.1",
-    "react": "16.12.0",
+    "react": "16.13.0",
     "react-fetching-library": "1.5.14",
-    "react-test-renderer": "16.12.0",
+    "react-test-renderer": "16.13.0",
     "ts-jest": "24.3.0",
     "typescript": "3.8.2"
   },
